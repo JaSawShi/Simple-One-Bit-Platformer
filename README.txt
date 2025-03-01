@@ -31,3 +31,4 @@ This project was inspired by a **Pygame platformer tutorial** by Russ:
   - Custom sprites and animations
 
 This game was a fun challenge, and I enjoyed bringing it to life!
+You can clone this project via - https://github.com/JaSawShi/Simple-One-Bit-Platformer
